@@ -6,8 +6,6 @@ Code repository of ECML-PKDD 22' paper **Defending Observation Attacks in Deep R
 
 ## Overview
 
-<img width="850" alt="image" src="https://user-images.githubusercontent.com/73256697/184552304-f0de4cb3-1e6a-4fc1-90f5-35edaaf4417d.png">
-
 ![image](https://user-images.githubusercontent.com/73256697/184551590-e9fda43c-2344-480d-9edb-c46ee8429eb1.png)
 
 
