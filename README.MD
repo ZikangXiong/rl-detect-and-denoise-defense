@@ -8,6 +8,9 @@ Code repository of ECML-PKDD 22' paper **Defending Observation Attacks in Deep R
 
 ![image](https://user-images.githubusercontent.com/73256697/184551590-e9fda43c-2344-480d-9edb-c46ee8429eb1.png)
 
+<img width="308" alt="image" src="https://user-images.githubusercontent.com/73256697/184552249-2ccd3d02-c7b5-4b81-8df0-3fac277843ea.png">
+
+
 ## Structure
 ```
 ├── neural_shield
